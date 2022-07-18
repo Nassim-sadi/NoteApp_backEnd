@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  background-color: ghostwhite;
+}
+p {
+  margin: 10px 0 !important;
+}
+.login-container {
+  width: auto;
+  margin: auto;
+  margin-top: 10vh;
+
+  text-align: center;
+}
+/* .mobile-menu-button >svg{
+    pointer-events: none;
+
+} */
